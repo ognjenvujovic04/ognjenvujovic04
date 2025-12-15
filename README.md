@@ -10,29 +10,29 @@
 
 ## 🚀 Featured Projects
 
-### 🏋️ [Android Barbell Tracker](https://github.com/your-username/android-barbell-tracker) — *Kotlin / TensorFlow Lite*  
+### 🏋️ [Android Barbell Tracker](https://github.com/ognjenvujovic04/android-barbell-tracker) — *Kotlin / TensorFlow Lite*  
 Video-based barbell detection and tracking on Android:  
 - **Models:** YOLOv8 nano, SORT tracking  
 - **Features:** Barbell selection, motion path visualization, GPU acceleration  
 - **Deployment:** On-device inference for mobile apps  
 
-### 🐍 [YOLOv8 Barbell Tracker](https://github.com/your-username/yolov8-barbell-tracker) — *Python / PyTorch*  
+### 🐍 [YOLOv8 Barbell Tracker](https://github.com/ognjenvujovic04/yolov8-barbell-tracker) — *Python / PyTorch*  
 Fine-tuned YOLOv8 nano model for barbell detection:  
 - **Computer Vision:** Object detection and tracking  
 - **Visualization:** Motion path analysis  
 - **Export:** TensorFlow Lite for mobile deployment  
 
-### 🗄️ [NoSQL Engine](https://github.com/your-username/nosql-engine) — *C++*  
+### 🗄️ [NoSQL Engine](https://github.com/ognjenvujovic04/nosql-engine) — *C++*  
 High-performance Key-Value storage engine:  
 - **Data Structures:** LSM Trees, WAL, Bloom Filters  
 - **Features:** Durable storage, configurable compaction, range queries  
 
-### 🤖 [GA Black Box Optimization](https://github.com/your-username/ga_black_box_optimization) — *Python*  
+### 🤖 [GA Black Box Optimization](https://github.com/ognjenvujovic04/ga_black_box_optimization) — *Python*  
 Applied **genetic algorithms** to optimize unknown high-dimensional functions:  
 - Real-valued GA with population-based evolution  
 - Objective: Minimization of black-box functions  
 
-### 🎮 [AI Checkers Bot](https://github.com/your-username/asp-checkers-bot) — *Python*  
+### 🎮 [AI Checkers Bot](https://github.com/ognjenvujovic04/asp-checkers-bot) — *Python*  
 Checkers AI using **Minimax with alpha-beta pruning**:  
 - Strategic decision making  
 - Real-time move evaluation  
