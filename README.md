@@ -2,62 +2,73 @@
 
 ## 🎓 About Me
 - **Software Engineering** @ University of Novi Sad, Serbia  
-- Passionate about **machine learning**, **computer vision**, **mobile development** 
+- Passionate about **machine learning**, **computer vision**, and **mobile development**  
 - Strong interest in **algorithms, data structures, and practical software engineering**  
-- GPA: 9.59 | Completed Harvard’s CS50 & CS50AI  
+- GPA: **9.66 / 10** | Completed **Harvard CS50 & CS50AI**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🏋️ [Android Barbell Tracker](https://github.com/ognjenvujovic04/android-barbell-tracker) — *Kotlin / TensorFlow Lite*  
-Video-based barbell detection and tracking on Android:  
-- **Models:** YOLOv8 nano, SORT tracking  
-- **Features:** Barbell selection, motion path visualization, GPU acceleration  
-- **Deployment:** On-device inference for mobile apps  
+On-device barbell detection and tracking for Android:
+- **Model:** YOLOv8 nano optimized for mobile inference  
+- **Tracking:** SORT-based object tracking pipeline  
+- **Features:** Manual barbell selection, motion trajectory visualization  
+- **Deployment:** GPU-accelerated **TensorFlow Lite** inference on-device  
 
-### 🐍 [YOLOv8 Barbell Tracker](https://github.com/ognjenvujovic04/yolov8-barbell-tracker) — *Python / PyTorch*  
-Fine-tuned YOLOv8 nano model for barbell detection:  
-- **Computer Vision:** Object detection and tracking  
-- **Visualization:** Motion path analysis  
-- **Export:** TensorFlow Lite for mobile deployment  
+### 🚕 [FleetForge Taxi Platform](https://github.com/ognjenvujovic04/fleetforge-taxi-platform) — *Spring Boot / Angular / Android*  
+Full-stack **Uber-like ride-hailing platform** built as a university team project:
+- **Backend:** Spring Boot REST API with **JWT authentication and role-based access control**
+- **Frontend:** Angular web client with map-based ride tracking
+- **Mobile:** Native Android app for passengers and drivers
+- **Features:** ride assignment algorithms, pricing logic, driver availability constraints
 
 ### 🗄️ [NoSQL Engine](https://github.com/ognjenvujovic04/nosql-engine) — *C++*  
-High-performance Key-Value storage engine:  
-- **Data Structures:** LSM Trees, WAL, Bloom Filters  
-- **Features:** Durable storage, configurable compaction, range queries  
+High-performance **Key-Value storage engine**:
+- **Architecture:** LSM Trees, Write-Ahead Log (WAL)
+- **Optimizations:** Bloom filters and probabilistic data structures
+- **Focus:** scalable storage and efficient data retrieval
 
-### 🤖 [GA Black Box Optimization](https://github.com/ognjenvujovic04/ga_black_box_optimization) — *Python*  
-Applied **genetic algorithms** to optimize unknown high-dimensional functions:  
-- Real-valued GA with population-based evolution  
-- Objective: Minimization of black-box functions  
+### 🧠 [Word2Vec from Scratch](https://github.com/ognjenvujovic04/word2vec-numpy) — *Python / NumPy*  
+Implementation of the **Word2Vec Skip-Gram model with Negative Sampling**:
+- Built entirely with **NumPy** (no ML frameworks)
+- Includes training pipeline, negative sampling and evaluation
+- Designed to deeply understand **embedding learning mechanics**
 
-### 🎮 [AI Checkers Bot](https://github.com/ognjenvujovic04/asp-checkers-bot) — *Python*  
-Checkers AI using **Minimax with alpha-beta pruning**:  
-- Strategic decision making  
-- Real-time move evaluation  
-
----
-
-## 🧠 Other Projects
-- **Traffic Computer Vision:** CNN for German traffic sign classification with 95%+ accuracy  
-- **Nim AI:** Reinforcement learning agent trained via Q-learning and self-play  
-- **Shopping Prediction Model:** KNN classifier for predicting online purchase intent  
-- **BERT Attention Visualizer:** Visualizing self-attention scores in NLP models  
-- **Parallel Scraper (C++ / TBB):** Multi-threaded web scraping with thread-safe pipelines  
-- **Minotaur Labyrinth Game (C++):** Console-based maze game demonstrating OOP principles  
+### 🧬 [Genetic Algorithm – Black Box Optimization](https://github.com/ognjenvujovic04/ga_black_box_optimization) — *Python*  
+Applied **evolutionary algorithms** to optimize high-dimensional unknown functions:
+- Real-valued GA with selection, crossover and mutation
+- Population-based optimization and convergence analysis
 
 ---
 
-## 🛠️ Skills & Tools
-**Languages:** Python · Kotlin · C++ · Java  
-**Machine Learning:** PyTorch · TensorFlow · scikit-learn · NLP · Computer Vision  
-**Mobile & Deployment:** Android · TensorFlow Lite
+# 🧠 Other Projects
+
+- **Graph Visualiser (Python):** Modular plugin-based platform for visualizing graph data from multiple formats (JSON, CSV, XML)
+- **Traffic Computer Vision:** CNN for German traffic sign classification with **95%+ accuracy**
+- **Privacy–Utility Trade-off in AI:** Studied how code obfuscation affects AI code completion models
+- **Nim AI:** Reinforcement learning agent trained via **Q-learning**
+- **Checkers AI:** Game agent using **Minimax with alpha-beta pruning**
+- **Parallel Scraper (C++ / Intel TBB):** Multi-threaded scraping pipeline with task-based parallelism
+- **Minotaur Labyrinth Game (C++):** Console-based game demonstrating OOP design principles
+
+---
+
+# 🛠️ Skills & Tools
+
+**Languages:** Python · Kotlin · C++ · Java · C#  
+
+**Machine Learning:** PyTorch · TensorFlow · TensorFlow Lite · scikit-learn · NumPy · NLP · Computer Vision  
+
+**Mobile & Web:** Android · Spring Boot · Angular  
+
 **Other:** Git · Algorithms & Data Structures · Parallel Programming · Software Architecture  
 
 ---
 
-## 💬 Connect With Me
+# 💬 Connect With Me
+
 <div>
   <a href="https://www.linkedin.com/in/ognjen-vujovic/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
@@ -69,4 +80,3 @@ Checkers AI using **Minimax with alpha-beta pruning**:
 </div>
 
 ![Snake animation](https://github.com/ognjenvujovic04/ognjenvujovic04/blob/output/github-contribution-grid-snake-dark.svg)
-
