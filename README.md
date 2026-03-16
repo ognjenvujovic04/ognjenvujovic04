@@ -36,7 +36,7 @@ Implementation of the **Word2Vec Skip-Gram model with Negative Sampling**:
 - Includes training pipeline, negative sampling and evaluation
 - Designed to deeply understand **embedding learning mechanics**
 
-### 🧬 [Genetic Algorithm – Black Box Optimization](https://github.com/ognjenvujovic04/ga_black_box_optimization) — *Python*  
+### 🧬 [Genetic Algorithm – Black Box Optimization](https://github.com/ognjenvujovic04/ga-black-box-optimization) — *Python*  
 Applied **evolutionary algorithms** to optimize high-dimensional unknown functions:
 - Real-valued GA with selection, crossover and mutation
 - Population-based optimization and convergence analysis
