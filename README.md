@@ -1,71 +1,78 @@
-# Hi there, I'm Ognjen 👋
+# Hi, I'm Ognjen 👋
 
-## 🎓 About Me
-- **Software Engineering** @ University of Novi Sad, Serbia  
-- Passionate about **machine learning**, **computer vision**, and **mobile development**  
-- Strong interest in **algorithms, data structures, and practical software engineering**  
-- GPA: **9.66 / 10** | Completed **Harvard CS50 & CS50AI**
+🎓 **Software Engineering** @ University of Novi Sad
 
----
+I build systems across **machine learning, backend, and mobile development**, with a focus on combining solid engineering fundamentals with practical, real-world applications.
+
+* GPA: **9.68 / 10**
+* Completed **Harvard CS50 & CS50AI**
 
 # 🚀 Featured Projects
 
-### 🏋️ [Android Barbell Tracker](https://github.com/ognjenvujovic04/android-barbell-tracker) — *Kotlin / TensorFlow Lite*  
-On-device barbell detection and tracking for Android:
-- **Model:** YOLOv8 nano optimized for mobile inference  
-- **Tracking:** SORT-based object tracking pipeline  
-- **Features:** Manual barbell selection, motion trajectory visualization  
-- **Deployment:** GPU-accelerated **TensorFlow Lite** inference on-device  
+### 🏋️ [Android Barbell Tracker](https://github.com/ognjenvujovic04/android-barbell-tracker) — *Kotlin / TensorFlow Lite*
 
-### 🚕 [FleetForge Taxi Platform](https://github.com/ognjenvujovic04/fleetforge-taxi-platform) — *Spring Boot / Angular / Android*  
-Full-stack **Uber-like ride-hailing platform** built as a university team project:
-- **Backend:** Spring Boot REST API with **JWT authentication and role-based access control**
-- **Frontend:** Angular web client with map-based ride tracking
-- **Mobile:** Native Android app for passengers and drivers
-- **Features:** ride assignment algorithms, pricing logic, driver availability constraints
+On-device **computer vision system** for barbell detection and motion tracking:
 
-### 🗄️ [NoSQL Engine](https://github.com/ognjenvujovic04/nosql-engine) — *C++*  
-High-performance **Key-Value storage engine**:
-- **Architecture:** LSM Trees, Write-Ahead Log (WAL)
-- **Optimizations:** Bloom filters and probabilistic data structures
-- **Focus:** scalable storage and efficient data retrieval
+* YOLOv8 nano optimized for **mobile inference**
+* SORT-based tracking pipeline
+* GPU-accelerated **TensorFlow Lite** deployment
+* Motion trajectory visualization and manual object selection
 
-### 🧠 [Word2Vec from Scratch](https://github.com/ognjenvujovic04/word2vec-numpy) — *Python / NumPy*  
-Implementation of the **Word2Vec Skip-Gram model with Negative Sampling**:
-- Built entirely with **NumPy** (no ML frameworks)
-- Includes training pipeline, negative sampling and evaluation
-- Designed to deeply understand **embedding learning mechanics**
+### 🗄️ [NoSQL Key-Value Engine](https://github.com/ognjenvujovic04/nosql-engine) — *C++*
 
-### 🧬 [Genetic Algorithm – Black Box Optimization](https://github.com/ognjenvujovic04/ga-black-box-optimization) — *Python*  
-Applied **evolutionary algorithms** to optimize high-dimensional unknown functions:
-- Real-valued GA with selection, crossover and mutation
-- Population-based optimization and convergence analysis
+High-performance storage engine demonstrating **systems design**:
 
----
+* LSM-tree architecture with **Write-Ahead Logging (WAL)**
+* Bloom filters and probabilistic data structures
+* Focus on scalability, durability, and efficient data retrieval
 
-# 🧠 Other Projects
 
-- **Graph Visualiser (Python):** Modular plugin-based platform for visualizing graph data from multiple formats (JSON, CSV, XML)
-- **Traffic Computer Vision:** CNN for German traffic sign classification with **95%+ accuracy**
-- **Privacy–Utility Trade-off in AI:** Studied how code obfuscation affects AI code completion models
-- **Nim AI:** Reinforcement learning agent trained via **Q-learning**
-- **Checkers AI:** Game agent using **Minimax with alpha-beta pruning**
-- **Parallel Scraper (C++ / Intel TBB):** Multi-threaded scraping pipeline with task-based parallelism
-- **Minotaur Labyrinth Game (C++):** Console-based game demonstrating OOP design principles
+### 🚕 [FleetForge Taxi Platform](https://github.com/ognjenvujovic04/fleetforge-taxi-platform) — *Spring Boot / Angular / Android*
 
----
+Full-stack **ride-hailing system** developed in a team:
+
+* Backend: REST API with **JWT authentication & role-based access control**
+* Frontend: Angular client with real-time tracking
+* Mobile: Native Android apps
+* Includes dispatch logic, pricing, and driver availability constraints
+
+
+### 🤖 [AI Git Commit Message Plugin](https://github.com/ognjenvujovic04/git-message-plugin) — *Kotlin / LLMs*
+
+IntelliJ plugin for generating and refining commit messages using **LLMs**:
+
+* Diff-aware prompt construction
+* Style adaptation based on project history
+* Integration with **Groq APIs** for fast inference
+* Focus on real-world developer workflows
+
+
+# 🧠 Machine Learning & AI
+
+* **[Word2Vec from Scratch](https://github.com/ognjenvujovic04/word2vec-numpy)** — Skip-gram with negative sampling in pure NumPy  
+* **[Traffic Sign Classification (CNN)](https://github.com/ognjenvujovic04/traffic-computer-vision)** — TensorFlow model with **95%+ accuracy**  
+* **[Privacy–Utility Trade-off in AI](https://github.com/ognjenvujovic04/privacy-utility-trade-off)** — effect of code obfuscation on LLM code completion  
+* **[BERT Attention Visualizer](https://github.com/ognjenvujovic04/bert-attention-visualizer)** — transformer attention analysis and visualization  
+
+# ⚙️ Other Engineering Work
+
+* **[Graph Visualiser (Python)](https://github.com/ognjenvujovic04/graph-visualiser)** — plugin-based architecture for flexible graph rendering  
+* **[Parallel Scraper (C++ / Intel TBB)](https://github.com/ognjenvujovic04/tbb-parellel-scraper)** — task-based parallel pipeline  
+* **[Checkers AI](https://github.com/ognjenvujovic04/asp-checkers-bot)** — Minimax with alpha-beta pruning  
+* **[Genetic Algorithm Optimization](https://github.com/ognjenvujovic04/ga-black-box-optimization)** — black-box optimization in high dimensions  
+* **[Language School App (.NET / WPF)](https://github.com/ognjenvujovic04/usi-language-school-app)** — desktop app with scheduling and reporting
+  
 
 # 🛠️ Skills & Tools
 
-**Languages:** Python · Kotlin · C++ · Java · C#  
+**Languages:** Python · C++ · Java · Kotlin · C#
 
-**Machine Learning:** PyTorch · TensorFlow · TensorFlow Lite · scikit-learn · NumPy · NLP · Computer Vision  
+**Machine Learning:** PyTorch · TensorFlow · TensorFlow Lite · scikit-learn · NumPy · NLP · Computer Vision
 
-**Mobile & Web:** Android · Spring Boot · Angular  
+**Software Engineering:** Algorithms & Data Structures · System Design · OOP · Software Architecture
 
-**Other:** Git · Algorithms & Data Structures · Parallel Programming · Software Architecture  
+**Frameworks & Tools:** Spring Boot · Android · Angular · Git · Parallel Programming
 
----
 
 # 💬 Connect With Me
 
