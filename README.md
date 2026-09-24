@@ -4,7 +4,7 @@
 
 I build systems across **machine learning, backend, and mobile development**, with a focus on combining solid engineering fundamentals with practical, real-world applications.
 
-* GPA: **9.68 / 10**
+* GPA: **9.71 / 10**
 * Completed **Harvard CS50 & CS50AI**
 
 # 🚀 Featured Projects
